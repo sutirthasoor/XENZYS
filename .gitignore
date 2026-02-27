@@ -9,3 +9,5 @@ backend/temp/**/*
 *.mov
 *.avi
 *.mkv
+config.bat
+node_modules
